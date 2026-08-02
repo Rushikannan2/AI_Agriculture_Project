@@ -211,15 +211,6 @@ cd AI-Crop-Yield-Prediction
 pip install -r requirements.txt
 ```
 
-## Launch the notebook
-
-Open:
-
-```
-notebooks/Agriculture_AI_Project.ipynb
-```
-
-and run all cells sequentially.
 
 ---
 
