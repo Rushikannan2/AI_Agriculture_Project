@@ -156,35 +156,37 @@ Performance Metrics
 # 📁 Project Structure
 
 ```text
-AI-Crop-Yield-Prediction/
-│
-├── data/
-│   └── All-India_-Crop-wise-Area,-Production-&-Yield.csv
-│
-├── results/
-│   ├── crop_distribution.png
-│   ├── season_distribution.png
-│   ├── average_yield_by_crop.png
-│   ├── production_by_year.png
-│   ├── area_vs_production.png
-│   ├── yield_trend.png
-│   ├── correlation_heatmap.png
-│   ├── boxplot.png
-│   ├── histogram.png
-│   ├── average_area_by_crop.png
-│   ├── actual_vs_predicted_yield.png
-│   ├── feature_importance.png
-│   ├── residual_plot.png
-│   └── error_distribution.png
-│
-├── models/
-│   └── best_crop_yield_model.pkl
-│
-├── notebooks/
-│   └── Agriculture_AI_Project.ipynb
+IIT_Ropar_2026/
 │
 ├── README.md
-
+├── VT-RushiKannan_Agriculture_Dataset.ipynb
+├── VT-RushiKannan-Project_Report.pdf
+│
+└── IIT_Ropar_2026/
+    │
+    ├── All-India_-Crop-wise-Area,-Production-&-Yield.csv
+    │
+    ├── models/
+    │   └── best_crop_yield_model.pkl
+    │
+    ├── results/
+    │   ├── actual_vs_predicted_yield.png
+    │   ├── error_distribution.png
+    │   ├── feature_importance.png
+    │   └── residual_plot.png
+    │
+    └── IIT_Ropar_2026/
+        └── results/
+            ├── area_vs_production.png
+            ├── average_area_by_crop.png
+            ├── average_yield_by_crop.png
+            ├── boxplot.png
+            ├── correlation_heatmap.png
+            ├── crop_distribution.png
+            ├── histogram.png
+            ├── production_by_year.png
+            ├── season_distribution.png
+            └── yield_trend.png
 ```
 
 ---
